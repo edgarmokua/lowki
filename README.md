@@ -38,7 +38,7 @@ My goal was to simulate a professional work environment:
 - I worked with tasks on my personal to do list that i created.
 ## How to navigate on this project
 The application uses Firebase authentication to sign up or Log in users.\
-Users can then create chat rooms where they can communicate
+Users can then create chat rooms where they can communicate freely.
 ## Why I built the project this way
 I didn't use state management library such as Redux on purpose. For this app simple ```useState``` is sufficient. I realised that more and more projects don't use Redux since GraphQL or react-query are often used to manage data.\
 React Native Elements is a great library for styling when using React Native. It performs the same functions as Material-UI and provides styling for various components.\
