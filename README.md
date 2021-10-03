@@ -8,7 +8,7 @@
 * [If I had more time i would change this](#if-i-had-more-time-i-would-change-this)
 * [Available Scripts](#available-scripts)
 ## General Info
-Lowki is a chat app that is built in React Native and Firebase.
+Lowki is a chat app that is built in React Native and Firebase./
 Download Expo Go on your Android device and scan the QR code from here exp://exp.host/@jmokua/lowki in order to use Lowki Application
 Sign in or Log in to access the chats and create chat rooms.
 ## Technologies
