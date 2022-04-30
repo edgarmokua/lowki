@@ -1,6 +1,6 @@
 # Lowki
 
-Lowki is a chat app that is built in React Native and Firebase.\
+Lowki is a chat app that is built in React Native and Firebase.
 
 
 ## Table of contents
